@@ -5,6 +5,15 @@ This is the official implementation for the paper ["LAMBDA: Large Language Model
 
 ![image](modelstructure.png)
 
+## Baselines
+The produced can be found at  
+
+https://github.com/LividWo/Revisit-MMT (Gated fusion)
+https://github.com/MatthieuFP/VGAMT (VGAMT)
+https://github.com/libeineu/fairseq_mmt (SA)
+https://github.com/nlp-mmt/Noise-robust-Text2image-Mask (Noise-robust)
+
+
 ## Citation
 
 If you find our work helpful, please cite as:
